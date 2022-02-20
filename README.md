@@ -1,4 +1,4 @@
-##Transport Counting Traffic with Computer Vision
+# Transport Counting Traffic with Computer Vision
 
 Tucked away quietly up high, traffic cameras take pictures steadfastly and without our notice. It’s amazing how much data on traffic is stored. It’s even more amazing how the Singapore government allows us to call an API to retrieve the images taken by these traffic cameras.
 
